@@ -8,11 +8,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/PWCat/favicon.ico",
-        "/PWCat/index.html",
-        "/PWCat/main.40bd32c25ecfc8b27202.js",
-        "/PWCat/polyfills.7a0e6866a34e280f48e7.js",
-        "/PWCat/runtime.a66f828dca56eeb90e02.js",
-        "/PWCat/styles.c32d2c526704f22f5222.css"
+        "/PWCat/index.html"
       ],
       "patterns": []
     },
@@ -39,7 +35,9 @@
         "/PWCat/assets/icons2/icon-72x72.png",
         "/PWCat/assets/icons2/icon-96x96.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
@@ -62,11 +60,7 @@
     "/PWCat/assets/icons2/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/PWCat/assets/icons2/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat/index.html": "2da3a89640d073f98c13bd7c9d167e8106d4456d",
-    "/PWCat/main.40bd32c25ecfc8b27202.js": "1a3077e202f2633a4f826791aafecd6f051b2dcd",
-    "/PWCat/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
-    "/PWCat/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/PWCat/styles.c32d2c526704f22f5222.css": "d008f9cb04ad99012216e9a135723d34c79ca42e"
+    "/PWCat/index.html": "2da3a89640d073f98c13bd7c9d167e8106d4456d"
   },
   "navigationUrls": [
     {
